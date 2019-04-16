@@ -1,0 +1,3 @@
+Name: Memo
+Age: 35
+Favorite Color: Red and Black
